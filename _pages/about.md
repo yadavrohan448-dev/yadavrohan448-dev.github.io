@@ -1,27 +1,18 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a PhD scholar in Economics at the Indira Gandhi Institute of Development Research (IGIDR), Mumbai. My research interests lie in development economics, rural electrification, welfare delivery, energy access, labour outcomes, and applied public-policy evaluation.
+Welcome! I am a PhD Scholar in Economics at the Indira Gandhi Institute of Development Research (IGIDR), Mumbai. My work lies at the intersection of development economics, rural electrification, welfare delivery, energy access, labour outcomes, and applied public-policy evaluation.
 
-My current research examines the socioeconomic impacts of rural electrification and targeted electricity-related welfare interventions in India. I use large-scale household datasets and quasi-experimental methods such as Difference-in-Differences, Instrumental Variables, and fixed-effects models.
+My current research evaluates large public programmes in India using household survey data and quasi-experimental methods. I work with datasets such as IHDS, NFHS, and PLFS, and use Difference-in-Differences, Instrumental Variables, fixed effects, and panel data methods to study how infrastructure and welfare interventions shape household outcomes.
 
-Before joining the PhD programme in Economics, I completed my M.Sc. in Physics from Jawaharlal Nehru University and B.Sc. in Physics from Banaras Hindu University. This interdisciplinary training shapes my interest in evidence-based policy research, especially in energy, infrastructure, and development.
+Before joining the Economics PhD programme at IGIDR, I completed an M.Sc. in Physics from Jawaharlal Nehru University and a B.Sc. in Physics from Banaras Hindu University. My training in physics and economics informs my interest in rigorous empirical research, data analysis, and evidence-based policy.
 
-## Research Interests
+My broader interests include sustainable development, applied policy evaluation, community-led education, and the links between public service delivery and human capability.
 
-- Development Economics
-- Rural Electrification and Energy Access
-- Welfare Delivery and Public Policy
-- Labour and Household Outcomes
-- Applied Econometrics
-- Energy and Environmental Economics
-
-## CV
-
-You can download my CV here: [Download CV](/files/Rohan_CV.pdf)
+For more information, please see my [CV](/cv/), [research](/publications/), and [conference presentations](/talks/).
