@@ -14,4 +14,40 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
+<style>
+  @media (max-width: 640px) {
+    .masthead__inner-wrap {
+      padding: 0.35rem 0.75rem;
+    }
+
+    .greedy-nav {
+      min-width: 0;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    .greedy-nav .visible-links {
+      display: flex;
+      align-items: center;
+      gap: 0.15rem;
+      width: max-content;
+      min-width: 100%;
+    }
+
+    .greedy-nav .visible-links li {
+      display: block;
+      flex: 0 0 auto;
+    }
+
+    .greedy-nav a {
+      margin: 0 0.45rem;
+      font-size: 0.82rem;
+    }
+
+    .masthead__menu-item--lg {
+      padding-right: 0.35rem;
+    }
+  }
+</style>
+
 <!-- end custom head snippets -->
