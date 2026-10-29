@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](/files/Rohan_CV.pdf)
+[Download CV](/files/Rohan_.pdf)
 
 ## Education
 
