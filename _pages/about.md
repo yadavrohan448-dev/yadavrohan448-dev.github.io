@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 <div class="profile-hero">
-  <p class="profile-kicker">Development economics · Energy access · Public policy evaluation</p>
+  <p>I am a PhD Scholar in Economics at the Indira Gandhi Institute of Development Research (IGIDR), Mumbai. My research lies at the intersection of development economics, rural electrification, welfare delivery, energy access, labour outcomes, and public-policy evaluation.</p>
   <h2>I study how public programmes shape welfare, work, education, and household decisions in India.</h2>
-  <p>I am a PhD Scholar in Economics at the Indira Gandhi Institute of Development Research (IGIDR), Mumbai. My research lies at the intersection of development economics, rural electrification, welfare delivery, energy access, labour outcomes, and applied public-policy evaluation.</p>
  
 </div>
 
