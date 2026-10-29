@@ -12,7 +12,7 @@ redirect_from:
   <h2>I study how public programmes shape welfare, work, education, and household decisions in India.</h2>
   <p>I am a PhD Scholar in Economics at the Indira Gandhi Institute of Development Research (IGIDR), Mumbai. My research lies at the intersection of development economics, rural electrification, welfare delivery, energy access, labour outcomes, and applied public-policy evaluation.</p>
   <div class="action-row">
-    <a class="profile-button primary" href="/files/Rohan_CV.pdf">Download CV</a>
+    <a class="profile-button primary" href="/files/Rohan_.pdf">Download CV</a>
     <a class="profile-button" href="/publications/">Research</a>
     <a class="profile-button" href="mailto:rohan@igidr.ac.in">Email</a>
     <a class="profile-button" href="https://www.linkedin.com/in/rohan-yadav-488009221/">LinkedIn</a>
